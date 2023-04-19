@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/jenniferyoung2016/single-price-grid-component-frontend-mentor-challenge-solution/tree/gh-pages)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://jenniferyoung2016.github.io/single-price-grid-component-frontend-mentor-challenge-solution/
 
 ## My process
 Mobile-first responsive layout designed with Flexbox.
